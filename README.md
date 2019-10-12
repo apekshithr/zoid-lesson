@@ -26,13 +26,6 @@ Go into the `src` folder and go through each folder sequentailly. When in each f
 <br/>
 for instruction to each tutorial.
 
-## Testing
-
-Built into this repo is a testing suite that will allow you to go through each tutorial with ease.
-<br/>
-
-*coming soon...*
-
 ## Zoid
 
 GitHub: https://github.com/krakenjs/zoid
