@@ -26,8 +26,3 @@ Go into the `src` folder and go through each folder sequentailly. When in each f
 <br/>
 for instruction to each tutorial.
 
-## Zoid
-
-GitHub: https://github.com/krakenjs/zoid
-<br/>
-npm: https://www.npmjs.com/package/zoid
